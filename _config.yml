@@ -30,6 +30,17 @@ url: "https://eduproto.github.io"
 twitter_username: eduedu
 github_username:  protoedu
 
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Build settings
 theme: minima
 plugins:
