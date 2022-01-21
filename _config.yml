@@ -45,7 +45,21 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
+  
+  # User setting
+owner:
+email:
+facebook_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
 
+# API settings
+google_api_key:
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
