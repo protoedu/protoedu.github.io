@@ -50,7 +50,7 @@ plugins:
 owner:
 email:
 facebook_username:
-address: 106.5 Judge John Aiso St. Los Angeles, CA 90012
+address: 
   - line:
   - line:
   # Feel free to add more lines here 
@@ -58,7 +58,7 @@ telephone:
 copyright:
 
 # API settings
-google_api_key: AIzaSyBUmuzgH0Uxe2xZKx5jsDendq8kCAPEBwA
+google_api_key: 
   
 # Exclude from processing.
 # The following items will not be processed, by default.
