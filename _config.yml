@@ -48,7 +48,7 @@ plugins:
   
   # User setting
 owner:
-email:
+email: "info@protohaus.com"
 facebook_username:
 address: 
   - line: "106.5 Judge John Aiso St. Los Angeles, CA 90012"
