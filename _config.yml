@@ -29,6 +29,7 @@ baseurl: "/"
 url: "https://eduproto.github.io"
 twitter_username: eduedu
 github_username:  protoedu
+linkedin_username: protoboy
 
 lsi: false
 safe: true
