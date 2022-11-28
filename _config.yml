@@ -33,7 +33,7 @@ linkedin_username: protoboy
 
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: "/home/lalo/Dev/protoedu.github.io"
 incremental: false
 highlighter: rouge
 gist:
