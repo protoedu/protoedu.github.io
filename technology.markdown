@@ -46,4 +46,4 @@ We are experienced in managing complex technological efforts that require large 
 
 > *We’ve worked across industries and data landscapes. We understand what it takes to build a data architecture that will secure your IP. We also bring our > expertise in Machine Learning for customer insights through the use of custom AI models for customer discovery and targeted marketing.* 
 
-[Home] (/index.html)
+[Home](/index.html)
