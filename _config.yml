@@ -25,7 +25,7 @@ description: Protohaus group builds production ready wargamed solutions for
              our solution modeling. We run AI and ML models against these to 
              create resillent solutions that last.
 domain: protoedu.github.io
-baseurl: "/" 
+baseurl: "/protoedu.github.io/" 
 url: "https://eduproto.github.io"
 twitter_username: eduedu
 github_username:  protoedu
