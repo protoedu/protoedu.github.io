@@ -168,6 +168,12 @@ hr.small {
     padding: 50px 0;
 }
 
+/* Technology */
+
+.homelink {
+    padding-left: 100px;
+}
+
 /* Services */
 
 .services {
