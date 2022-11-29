@@ -30,3 +30,18 @@ As we move from ideation to prototype both looks like and works like we will emp
 > *We often start with paper prototypes or role-playing simulations to quickly frame ideas and look for design factors that lead to design opportunities. 
 > We use a methodology called **Structured Planning** that allows us to build up bottom up function structures which maximizes functional support and 
 > minimizes solution conflicts.*
+
+***
+
+## Customer discovery
+We are also adherents to the importance of customer needs as primary inputs to technological solutions. 
+
+> *We are experienced at collecting explicit and implicit requirements from customers and formulating scoping and supporting the technological approach 
+> with rigorous project management. We use a lean scrum approach that allows us to maximize our build and testing time.*
+
+***
+
+## Managing complexity
+We are experienced in managing complex technological efforts that require large teams to deliver on critical paths. As well as planning and organizing secure data maintenance and AI harvesting. 
+
+> *We’ve worked across industries and data landscapes. We understand what it takes to build a data architecture that will secure your IP. We also bring our > expertise in Machine Learning for customer insights through the use of custom AI models for customer discovery and targeted marketing.* 
