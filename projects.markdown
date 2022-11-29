@@ -24,6 +24,14 @@ Having a long-term view of technology helps to make a more informed decision on 
 
 ***
 
+## Customer discovery
+We are also adherents to the importance of customer needs as primary inputs to technological solutions. 
+
+> *We are experienced at collecting explicit and implicit requirements from customers and formulating scoping and supporting the technological approach 
+> with rigorous project management. We use a lean scrum approach that allows us to maximize our build and testing time.*
+
+***
+
 ## Modular iteration 
 As we move from ideation to prototype both looks like and works like we will employ the right stack for the task at hand. Our approach is always to build modular components that can be stacked together in multiple configurations for different outcomes and experiments. 
 
@@ -33,15 +41,7 @@ As we move from ideation to prototype both looks like and works like we will emp
 
 ***
 
-## Customer discovery
-We are also adherents to the importance of customer needs as primary inputs to technological solutions. 
-
-> *We are experienced at collecting explicit and implicit requirements from customers and formulating scoping and supporting the technological approach 
-> with rigorous project management. We use a lean scrum approach that allows us to maximize our build and testing time.*
-
-***
-
-## Managing complexity
+## Managing complexity optimizing for insight
 We are experienced in managing complex technological efforts that require large teams to deliver on critical paths. As well as planning and organizing secure data maintenance and AI harvesting. 
 
 > *We’ve worked across industries and data landscapes. We understand what it takes to build a data architecture that will secure your IP. We also bring our > expertise in Machine Learning for customer insights through the use of custom AI models for customer discovery and targeted marketing.* 
