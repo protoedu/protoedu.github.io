@@ -27,6 +27,6 @@ Having a long-term view of technology helps to make a more informed decision on 
 ## Modular iteration 
 As we move from ideation to prototype both looks like and works like we will employ the right stack for the task at hand. Our approach is always to build modular components that can be stacked together in multiple configurations for different outcomes and experiments. 
 
-> We often start with paper prototypes or role-playing simulations to quickly frame ideas and look for design factors that lead to design opportunities. 
+> *We often start with paper prototypes or role-playing simulations to quickly frame ideas and look for design factors that lead to design opportunities. 
 > We use a methodology called **Structured Planning** that allows us to build up bottom up function structures which maximizes functional support and 
-> minimizes solution conflicts.
+> minimizes solution conflicts.*
