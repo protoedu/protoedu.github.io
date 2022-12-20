@@ -1,0 +1,74 @@
+---
+layout: page
+title: Business Analysis
+permalink: /business
+---
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+  <body>
+<section id="technology" class="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Classic American Design Approach</h2>
+        <p class="lead">Our approach to business analytics is comprehensive throughout the product development process. Whether it’s doing a competitive market analysis or an investment plan for a new venture.</p>
+        <p class="lead">Protohaus is a firm believer in the approach pioneered by IDEO and other American design firms such as Doblin Group,  which optimize innovations around  the three domains of viability, feasibility, and desirability.</p>
+        <p class="lead">This is the first and last test that a concept needs to overcome to be successful in the market. Good business analytics looks to understand the boundary or best fit between capabilities and market. </p>
+      </div>
+    </div>
+    <!-- /.row -->
+    <hr>
+        <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Strategic and Structured Business Innovation</h2>
+        <p class="lead">Fundamentally there are four main functions where you can focus and innovate any modern business model. Innovation can happen at the process, offering, delivery, and finance categories.</p>
+        <p class="lead">The Quality Pyramid is a concept pioneered by Charles L. Owen at the Institute of Design IIT.</p>
+        <p class="lead">The concept is that design thinking can be applied to three levels of product integrity at the foundation level is craftsmanship, next details, and the capstone is concept. Concept has to be understood as continuous escalator delivery of innovations.</p>
+        <p class="lead">Companies that focus on quality and product integrity will find that their products are significantly more competitive insofar as brand, margins, and pricing power are concerned.</p>
+      </div>
+    </div>
+    <!-- /.row -->
+    <hr>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Examples</h2>
+        <p class="lead">Here is an excerpt from a recent analysis on the U.S. FDM 3D printing market:</p>
+        <p class="lead"><i>U.S. Market
+	
+The U.S. market is highly competitive, highly advanced, and highly specialized. Over the last 10 years the U.S. market has become much more resilient to foreign supply chain shocks. Covid-19 has accelerated the trend of re-shoring capabilities to the U.S. home market. In many ways this is an ideal moment for 3D printing technologies but as the technology has not lived up to the hype many manufacturers are relying on tried and true technologies. The labor pool in the U.S. is familiar with more traditional machining tools and will default to CNC technologies whenever possible. 
+
+For there to be large-scale adoption of 3D printing there needs to be a bottom-up training effort and testing regime put in place. Industries advance as their training and testing regimes mature. Even the simplest of technologies will fail to be adopted by industry if these tenets are not followed. An illustrative example is the use of recycled rubber in asphalt pavements. By many measures adding recycled rubber to asphalt is a better way to build roads, leaving aside environmental concerns. This 'technology' was developed in Arizona in the 1960's and yet 60 years later the use of recycled rubber in asphalt roads has only been adopted by less ⅓ of the U.S. states. This 'failure' can be attributed to entrenched business interests, poor training, and lack of strong testing regimes. If a company wants to be a trailblazer in the U.S. market then leading the way in training and testing is the fastrack.
+</i></p>
+      </div>
+    </div>
+    <!-- /.row -->
+    <hr>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Customer discovery</h2>
+        <p class="lead">We are also adherents to the importance of customer needs as primary inputs to technological solutions.</p>
+        <p class="lead"><i>We are experienced at collecting explicit and implicit requirements from customers and formulating scoping and supporting the technological approach with rigorous project management. We use a lean scrum approach that allows us to maximize our build and testing time.</i></p>
+      </div>
+    </div>
+    <!-- /.row -->
+    <hr>
+        <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Managing complexity</h2>
+        <p class="lead">We are experienced in managing complex technological efforts that require large teams to deliver on critical paths. As well as planning and organizing secure data maintenance and AI data harvesting.</p>
+        <p class="lead"><i>We’ve worked across industries and data landscapes. We understand what it takes to build a data architecture that will secure your IP. We also bring our expertise in Machine Learning for customer insights through the use of custom AI models for customer discovery and targeted marketing.</i></p>
+      </div>
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+
+    <a class="homelink" href="/index.html">[Home(/index.html)]</a>
+
+  </body>
+</html>
+
+
