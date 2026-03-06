@@ -210,7 +210,7 @@ hr.small {
 
 .clients-logos .client-logo img {
   width: 100%;        /* forces scale-up */
-  max-width: none;    /* allow upscaling beyond intrinsic size */
+  max-width: 200px;    /* allow upscaling beyond intrinsic size */
   height: auto;
 }
 .portfolio {
