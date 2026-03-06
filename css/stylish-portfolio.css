@@ -201,17 +201,15 @@ hr.small {
 
 /* Portfolio */
 
-/* 30px vertical spacing; horizontal spacing is ~30px already via Bootstrap gutters */
 .clients-logos .client-logo {
   margin-bottom: 30px;
 }
 
 .clients-logos .client-logo img {
-  display: block;
-  max-width: 100%;
+  width: 100%;        /* forces scale-up */
+  max-width: none;    /* allow upscaling beyond intrinsic size */
   height: auto;
 }
-
 .portfolio {
     padding: 50px 0;
 }
