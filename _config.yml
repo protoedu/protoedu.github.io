@@ -49,10 +49,9 @@ plugins:
   
   # User setting
 owner:
-email: "info@protohaus.com"
+email: "info@protohaus.ai"
 facebook_username:
 address: 
-  - line: "106.5 Judge John Aiso St. Los Angeles, CA 90012"
   - line: "North County, San Diego, CA 92028"
   # Feel free to add more lines here 
 telephone:
@@ -80,3 +79,4 @@ google_api_key:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
